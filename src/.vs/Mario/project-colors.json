@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb345b25-7eaa-45b1-b2fd-82fd52e575b0": {
+      "ProjectGuid": "eb345b25-7eaa-45b1-b2fd-82fd52e575b0",
+      "DisplayName": "Mario",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
